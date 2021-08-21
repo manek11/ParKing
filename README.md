@@ -10,7 +10,6 @@ using Licence Plate recognition or by using
 
 Bluetooth-QR Verification
 
-2
 
 
 
@@ -32,7 +31,7 @@ provide a user friendly experience
 
 with Firebase
 
-3
+
 
 
 
@@ -40,7 +39,6 @@ with Firebase
 
 Booking Process
 
-4
 
 
 
@@ -48,7 +46,7 @@ Booking Process
 
 Hardware Overview
 
-5
+
 
 
 
@@ -56,5 +54,5 @@ Hardware Overview
 
 RFS Overview
 
-6
+
 
