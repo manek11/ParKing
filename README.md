@@ -1,16 +1,60 @@
-# parking_app
+Introduction
 
-A new Flutter application.
+● ***ParKing*** is a service to request parking spaces
 
-## Getting Started
+around Canada
 
-This project is a starting point for a Flutter application.
+● User authentication at parking spot happens
 
-A few resources to get you started if this is your first Flutter project:
+using Licence Plate recognition or by using
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Bluetooth-QR Verification
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2
+
+
+
+
+
+Software Overview
+
+● Frontend Application made using Flutter/Dart
+
+● Used Google APIs like Autocomplete, Places, Nearby
+
+Search, Geocoding, Details and Directions API to
+
+provide a user friendly experience
+
+● Backend handled by Firebase
+
+● Raspberry Pi handles hardware integration of LPR
+
+with Firebase
+
+3
+
+
+
+
+
+Booking Process
+
+4
+
+
+
+
+
+Hardware Overview
+
+5
+
+
+
+
+
+RFS Overview
+
+6
+
